@@ -1,3 +1,3 @@
 ### CodeSnippets
 
-This repo consists of few snippets from projects I am doing in Typescript
+This repo consists of few snippets from a projects I am working on, written in Typescript
