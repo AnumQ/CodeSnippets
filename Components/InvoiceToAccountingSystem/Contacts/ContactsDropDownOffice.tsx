@@ -6,7 +6,6 @@ import { Contact } from "../../../Models/Contact";
 import { useContacts } from "../../Contacts/hooks/useContacts";
 import "react-bootstrap-typeahead/css/Typeahead.css";
 import { Typeahead } from "react-bootstrap-typeahead";
-import { useInvoiceContext } from "../../../Contexts/FikenInvoiceContext";
 
 /**
  * List contacts from group PortalGruppe from Accounting
